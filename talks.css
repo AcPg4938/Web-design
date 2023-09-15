@@ -1,0 +1,38 @@
+.seminar{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 55px;
+}
+
+.speak{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.speak img{
+    width: 420px;
+}
+
+.speaker{
+   margin: 5px;
+}
+
+.date-time{
+    margin-bottom: 55px;
+}
+
+.date-time h1{
+    text-align: center;
+}
+
+.detail{
+    border: solid 3px black;
+}
+
+.upcoming{
+    margin-left: 30px;
+    color: darkorange;
+    text-decoration: underline;
+}
+

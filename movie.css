@@ -1,0 +1,38 @@
+.seminar{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 55px;
+}
+
+.club{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.club img{
+    width: 330px;
+}
+
+.movies{
+   margin: 30px;
+}
+
+.date-time{
+    margin-bottom: 55px;
+}
+
+.date-time h1{
+    text-align: center;
+}
+
+.detail{
+    border: solid 3px red;
+}
+
+.upcoming{
+    margin-left: 30px;
+    color: darkorange;
+    text-decoration: underline;
+}
+
